@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Aalvi-Alunium/static/css/main.eec19574.chunk.css",
+    "main.js": "/Aalvi-Alunium/static/js/main.57e22e53.chunk.js",
+    "main.js.map": "/Aalvi-Alunium/static/js/main.57e22e53.chunk.js.map",
+    "runtime-main.js": "/Aalvi-Alunium/static/js/runtime-main.9f627368.js",
+    "runtime-main.js.map": "/Aalvi-Alunium/static/js/runtime-main.9f627368.js.map",
+    "static/js/2.392d5685.chunk.js": "/Aalvi-Alunium/static/js/2.392d5685.chunk.js",
+    "static/js/2.392d5685.chunk.js.map": "/Aalvi-Alunium/static/js/2.392d5685.chunk.js.map",
+    "index.html": "/Aalvi-Alunium/index.html",
+    "precache-manifest.9c0380a1aaf091d245cfb4080b285775.js": "/Aalvi-Alunium/precache-manifest.9c0380a1aaf091d245cfb4080b285775.js",
+    "service-worker.js": "/Aalvi-Alunium/service-worker.js",
+    "static/css/main.eec19574.chunk.css.map": "/Aalvi-Alunium/static/css/main.eec19574.chunk.css.map",
+    "static/js/2.392d5685.chunk.js.LICENSE": "/Aalvi-Alunium/static/js/2.392d5685.chunk.js.LICENSE",
+    "static/media/PizzaLogo.png": "/Aalvi-Alunium/static/media/PizzaLogo.1901e637.png",
+    "static/media/aalvi1.jpg": "/Aalvi-Alunium/static/media/aalvi1.f5edaa47.jpg",
+    "static/media/aalvi2.png": "/Aalvi-Alunium/static/media/aalvi2.c5434110.png",
+    "static/media/aalvi4.jpg": "/Aalvi-Alunium/static/media/aalvi4.c659bde4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f627368.js",
+    "static/js/2.392d5685.chunk.js",
+    "static/css/main.eec19574.chunk.css",
+    "static/js/main.57e22e53.chunk.js"
+  ]
+}
